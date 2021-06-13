@@ -1,16 +1,16 @@
-### Hi there 👋
+  # Visitor ![](https://visitor-badge.glitch.me/badge?page_id=1v4n4.1v4n4) 🤘
 
-<!--
-**1v4n4/1v4n4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    
+ 🌱 I'm currently mastering Ruby on Rails, working on a few projects, and looking for a job that allows constant development.
+    
+ 💬 Ask me about - Whatever. If I don't know, I would love to learn!
+    
+ ☎️ Reach me at - [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/codeIv1) or ivananl@yahoo.com
+    
+ 👯 Look at - My green squares.
+ 
+ 🛠️ Hire me - Because I love my job and respect my commitments.
+    
+ 👍 Follow or star - Since you are here, what else would you do?    
+   
+  🖖 If we never meet again - Live long and prosper!
