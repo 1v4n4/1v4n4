@@ -1,5 +1,4 @@
-  # Visitor ![](https://visitor-badge.glitch.me/badge?page_id=1v4n4.1v4n4) 🤘
-
+ # Hello Visitor 🤘
     
  🌱 I'm currently mastering Ruby on Rails, working on a few projects, and looking for a job that allows constant development.
     
