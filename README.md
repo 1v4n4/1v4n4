@@ -8,7 +8,7 @@
     
  👯 Look at - My green squares.
  
- 🛠️ Hire me - Because I love my job and respect my commitments.
+ 🛠️ Hire me - I'll get the job done.
     
  👍 Follow or star - Since you are here, what else would you do?    
    
