@@ -1,6 +1,6 @@
  # Hello Visitor 🤘
     
- 🌱 I'm currently mastering Ruby on Rails, working on a few projects, and looking for a job that allows constant development.
+ 🌱 I'm currently an Outreachy intern, working on project Programs & Events Dashboard, and looking for a long-term full-stack (RoR-React) position.
     
  💬 Ask me about - Whatever. If I don't know, I would love to learn!
     
