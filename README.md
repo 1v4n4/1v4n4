@@ -1,6 +1,8 @@
  # Hello Visitor 🤘
     
- 🌱 I'm currently an Outreachy intern, working on project Programs & Events Dashboard, and looking for a long-term full-stack (RoR/React-Redux) position.
+ 🌱 I'm currently an Outreachy intern, working on project Programs & Events Dashboard.
+ 
+ :mega: Looking for a long-term full-stack (RoR/React-Redux) position.
     
  💬 Ask me about - Whatever. If I don't know, I would love to learn!
     
