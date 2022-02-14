@@ -1,6 +1,6 @@
  # Hello Visitor 🤘
     
- 🌱 I'm currently an [Outreachy](https://www.outreachy.org) intern, working on project [Programs & Events Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard).
+ 🌱 I'm currently an [Outreachy](https://www.outreachy.org) intern, working on the project [Programs & Events Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard).
  
  :mega: Looking for a long-term full-stack (RoR/React-Redux) position.
     
