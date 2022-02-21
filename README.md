@@ -6,7 +6,7 @@
     
  💬 Ask me about - Whatever. If I don't know, I would love to learn!
     
- ☎️ Reach me at - [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/codeIv1) or ivananl@yahoo.com.
+ ☎️ Reach me at - [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/1v4n4) or [email](ivananl@yahoo.com).
     
  👯 Look at - My green squares.
  
