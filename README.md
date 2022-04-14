@@ -1,17 +1,11 @@
  # Hello Visitor 🤘
     
- 🌱 I'm currently an [Outreachy](https://www.outreachy.org) intern, working on the project [Programs & Events Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard).
+ 🌱 I’m a developer at [Fix The Status Quo](https://proca.app/), building software for online campaigns.
  
- :mega: Looking for a long-term full-stack (RoR/React-Redux) position.
-    
- 💬 Ask me about - Whatever. If I don't know, I would love to learn!
-    
- ☎️ Reach me at - [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/_1v4n4), [1v4n4](https://www.1v4n4.me) or ivananl@yahoo.com.
-    
- 👯 Look at - My green squares.
+ 🛠️ Check out our awesome projects [here](https://github.com/fixthestatusquo/).
  
- 🛠️ Hire me - Because I'll get the job done.
-    
- 👍 Follow or star - Since you are here, what else would you do?    
+ :yellow_heart: My open-source adventure began with an [Outreachy](https://www.outreachy.org) internship and working on Wikimedia’s project [Programs & Events Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard).
+  
+  ☎️ I’d love to hear from you, so reach me at - [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/_1v4n4), [1v4n4](https://www.1v4n4.me) or ivananl@yahoo.com.    
    
- 🖖 If we never meet again - Live long and prosper!
+ 🖖 But, if we never meet again - Live long and prosper!
