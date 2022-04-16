@@ -12,4 +12,4 @@
   
   ☎️ I’d love to hear from you, so reach me on - [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/_1v4n4), [1v4n4](https://www.1v4n4.me), or ivananl@yahoo.com.    
    
- 🖖 But, if we never meet again, live long and prosper!
+ 🖖 And, if we never meet again, live long and prosper!
