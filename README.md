@@ -10,6 +10,6 @@
  
  :heavy_plus_sign: Currently, I'm figuring out Typescript.
   
-  ☎️ I’d love to hear from you, so reach me on - [1v4n4](https://www.1v4n4.me), <a rel="me" href="https://fosstodon.org/@nosurprises">Mastodon</a>, [LinkedIn](https://www.linkedin.com/in/1v4n4/), [Twitter](https://twitter.com/_1v4n4), or ivananl@yahoo.com.    
+  ☎️ I’d love to hear from you, so reach me on - [1v4n4](https://www.1v4n4.me), <a rel="me" href="https://fosstodon.org/@nosurprises">Mastodon</a>, [LinkedIn](https://www.linkedin.com/in/1v4n4/), or ivananl@yahoo.com. Twitter is deactivated.    
    
  🖖 And, if we never meet again, live long and prosper!
