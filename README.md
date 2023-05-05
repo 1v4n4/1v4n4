@@ -9,6 +9,8 @@
  :computer: My stack includes JavaScript, Ruby, RoR, React, MySQL...
  
  :heavy_plus_sign: Currently, I'm figuring out Typescript.
+ 
+ 🙃 Twelve-day gap which you can see on my contribution graph? I was in Amsterdam.
   
   ☎️ I’d love to hear from you, so reach me on - [1v4n4](https://www.1v4n4.me), <a rel="me" href="https://fosstodon.org/@nosurprises">Mastodon</a>, [LinkedIn](https://www.linkedin.com/in/1v4n4/), or ivananl@yahoo.com. Twitter is deactivated.    
    
