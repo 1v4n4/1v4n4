@@ -1,6 +1,6 @@
  # Hello Visitor 🤘
     
- 🌱 As a developer at [Fix The Status Quo](https://proca.app/), I'm building software for online campaigns.
+ 🌱 As a developer at [Fix The Status Quo](https://proca.app/), I'm building software for progressive and nonprofit online campaigns.
  
  🛠️ Check out our awesome projects [here](https://github.com/fixthestatusquo/).
  
