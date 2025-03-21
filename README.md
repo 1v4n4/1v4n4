@@ -10,6 +10,6 @@
  
  :heavy_plus_sign: Currently, I'm trying to figure out Elixir.
    
-  ☎️ I’d love to hear from you, so reach me at [email](ivana@fixthestatusquo.org) or [LinkedIn](https://www.linkedin.com/in/1v4n4/). Twitter is deactivated.    
+  ☎️ I’d love to hear from you, so reach me at <ivana@fixthestatusquo.org> or [LinkedIn](https://www.linkedin.com/in/1v4n4/). Twitter is deactivated.    
    
  🖖 And, if we never meet again, live long and prosper!
