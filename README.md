@@ -1,4 +1,4 @@
- # Hello Visitor 🤘
+ # Hi comrade!
     
  🌱 As a developer at [Fix The Status Quo](https://proca.app/), I'm building software for progressive and nonprofit online campaigns.
  
