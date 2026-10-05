@@ -1,15 +1,15 @@
- # Hi comrade!
-    
- 🌱 As a developer at [Fix The Status Quo](https://proca.app/), I'm building software for progressive and nonprofit online campaigns.
- 
- 🛠️ Check out our awesome projects [here](https://github.com/fixthestatusquo/).
- 
- :yellow_heart: My open-source adventure began a long time ago with an [Outreachy](https://www.outreachy.org) internship and working on [Wikimedia’s](https://wikimediafoundation.org/) project [Programs & Events Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard).
- 
- :computer: My stack includes JavaScript, Typescript, Ruby, RoR, React, MySQL...
- 
- :heavy_plus_sign: Currently, I'm trying to figure out Elixir.
-   
-  ☎️ I’d love to hear from you, so reach me at <ivana@fixthestatusquo.org> or [LinkedIn](https://www.linkedin.com/in/1v4n4/). Twitter is deactivated.    
-   
- 🖖 And, if we never meet again, live long and prosper!
+Hi comrade!
+
+🌱 As a developer at [Fix The Status Quo](https://fixthestatusquo.com/), I'm building [Proca](https://github.com/fixthestatusquo/), a digital action toolkit for NGOs and nonprofits.
+
+🛠️ I work across the stack: backend infrastructure, DevOps, databases, CLI tooling, and frontend. Check out our projects [here](https://github.com/fixthestatusquo/).
+
+💛 My open-source adventure began a long time ago with an [Outreachy](https://www.outreachy.org/) internship on [Wikimedia's](https://wikimediafoundation.org/) [Programs & Events Dashboard](https://github.com/WikiEducationFoundation/WikiEduDashboard). 
+
+🌍 I'm always up for open-source side projects that code an inclusive, fair, and green world.
+
+💻 My stack: TypeScript, Node.js, React, GraphQL, PostgreSQL, Elixir/Phoenix, RabbitMQ, Ruby/Rails...
+
+☎️ I'd love to hear from you: [ivana@fixthestatusquo.org](mailto:ivana@fixthestatusquo.org) or [LinkedIn](https://www.linkedin.com/in/1v4n4/).
+
+🖖 And, if we never meet again, live long and prosper!
