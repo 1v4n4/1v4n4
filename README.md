@@ -1,6 +1,6 @@
 Hi comrade!
 
-🌱 As a developer at [Fix The Status Quo](https://fixthestatusquo.com/), I'm building [Proca](https://github.com/fixthestatusquo/), a digital action toolkit for NGOs and nonprofits.
+🌱 As a developer at [Fix The Status Quo](https://fixthestatusquo.com/), I'm building a digital action toolkit for NGOs and nonprofits.
 
 🛠️ I work across the stack: backend infrastructure, DevOps, databases, CLI tooling, and frontend. Check out our projects [here](https://github.com/fixthestatusquo/).
 
