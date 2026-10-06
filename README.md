@@ -1,4 +1,4 @@
-Hi comrade!
+## Hi comrade!
 
 🌱 As a developer at [Fix The Status Quo](https://fixthestatusquo.com/), I'm building a digital action toolkit for NGOs and nonprofits.
 
